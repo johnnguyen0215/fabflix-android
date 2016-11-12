@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@drawable/blur</item>
+    </style>
+
+    <style name="LoginEditTextTheme">
+        <!-- Used for the bottom line when not selected / focused -->
+        <item name="colorControlNormal">#FFF</item>
+        <!-- colorControlActivated & colorControlHighlight use the colorAccent color by default -->
+    </style>
+
+</resources>
